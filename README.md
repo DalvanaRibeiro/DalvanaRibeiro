@@ -75,7 +75,10 @@ Se você também curte **tecnologia**, **desenvolvimento web e mobile**, **engen
 ## 📊 Linguagens Mais Usadas no GitHub
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DalvanaRibeiro&layout=compact&theme=gruvbox)
+## 📊 Linguagens Mais Usadas no GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DalvanaRibeiro&layout=compact&theme=gruvbox)
+
 </div>
 
 ---
