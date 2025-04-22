@@ -2,7 +2,7 @@
 
 Sou **Desenvolvedora**, **Educadora de Tecnologia**, **Bacharel em Ciência e Tecnologia**, **Mestre em Engenharia Oceânica**, e **Doutoranda em Modelagem Computacional**. 🚀
 
-Apaixonada por **programação**, **educação**, **inovação tecnológica** e **modelagem computacional**! 😄
+Tenho grande interesse em **programação**, **educação**, **inovação tecnológica** e **modelagem computacional**! 😄
 
 Se você também curte **tecnologia**, **desenvolvimento web e mobile**, **engenharia** ou **modelagem computacional**, estou aqui para compartilhar e colaborar! 🤖
 
