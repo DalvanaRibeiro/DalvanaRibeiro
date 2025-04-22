@@ -55,7 +55,8 @@ Se você também curte **tecnologia**, **desenvolvimento web e mobile**, **engen
   <img src="https://img.shields.io/badge/📜%20Lattes-Visualizar%20Currículo-4CAF50?style=for-the-badge" alt="Currículo Lattes">
 </a>
 
-<a href="www.linkedin.com/in/ribeiro-dalvana" target="_blank">
+
+<a href="https://www.linkedin.com/in/ribeiro-dalvana/" target="_blank">
   <img src="https://img.shields.io/badge/🔗%20LinkedIn-Dalvana%20Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
