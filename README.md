@@ -23,6 +23,8 @@ Se você também curte **tecnologia**, **desenvolvimento web e mobile**, **engen
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🗄️ **Bancos de Dados**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -33,6 +35,13 @@ Se você também curte **tecnologia**, **desenvolvimento web e mobile**, **engen
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
@@ -43,28 +52,22 @@ Se você também curte **tecnologia**, **desenvolvimento web e mobile**, **engen
 - **Mestre em Engenharia Oceânica** – Universidade Federal do Rio Grande (FURG) 🌊  
 - **Doutoranda em Modelagem Computacional** – Universidade Federal do Rio Grande (FURG) 🧑‍🔬  
 
-
-
-
 ---
 
 ## 📲 Meus Links
 
 <div align="center">
+  <a href="http://lattes.cnpq.br/5489866644484228" target="_blank">
+    <img src="https://img.shields.io/badge/📜%20Lattes-Visualizar%20Currículo-4CAF50?style=for-the-badge" alt="Currículo Lattes">
+  </a>
 
-<a href="http://lattes.cnpq.br/5489866644484228" target="_blank">
-  <img src="https://img.shields.io/badge/📜%20Lattes-Visualizar%20Currículo-4CAF50?style=for-the-badge" alt="Currículo Lattes">
-</a>
+  <a href="https://www.linkedin.com/in/ribeiro-dalvana/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-Dalvana%20Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-
-<a href="https://www.linkedin.com/in/ribeiro-dalvana/" target="_blank">
-  <img src="https://img.shields.io/badge/🔗%20LinkedIn-Dalvana%20Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/ribeirodalvanalopes/" target="_blank">
-  <img src="https://img.shields.io/badge/📸%20Instagram-@dalvana.ribeiro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
+  <a href="https://www.instagram.com/ribeirodalvanalopes/" target="_blank">
+    <img src="https://img.shields.io/badge/📸%20Instagram-@dalvana.ribeiro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </div>
 
 ---
@@ -72,9 +75,7 @@ Se você também curte **tecnologia**, **desenvolvimento web e mobile**, **engen
 ## 📊 Linguagens Mais Usadas no GitHub
 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DalvanaRibeiro&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DalvanaRibeiro&layout=compact&theme=gruvbox)
 </div>
 
 ---
@@ -83,8 +84,6 @@ Se você também curte **tecnologia**, **desenvolvimento web e mobile**, **engen
 
 Se você tem alguma dúvida sobre tecnologia, desenvolvimento ou quer colaborar em projetos, **me envie uma mensagem!** 😊  
 📧 **Email**: lopesribeirodalvana20@gmail.com
-
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DalvanaRibeiro/DalvanaRibeiro/output/github-contribution-grid-snake-dark.svg">
