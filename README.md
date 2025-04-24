@@ -48,7 +48,7 @@ Se você também curte **tecnologia**, **desenvolvimento web e mobile**, **engen
 ## 🎓 Minha Formação Acadêmica
 
 - **Bacharel em Ciência e Tecnologia** pela Universidade Federal do Pampa (UNIPAMPA) 🎓  
-- **Redes de Computadores** – Universidade Federal do Pampa (UNIPAMPA) 🌐  
+- **Redes de Computadores** – Centro Universitário de Tecnologia de Curitiba (UNIFATEC) 🌐  
 - **Mestre em Engenharia Oceânica** – Universidade Federal do Rio Grande (FURG) 🌊  
 - **Doutoranda em Modelagem Computacional** – Universidade Federal do Rio Grande (FURG) 🧑‍🔬  
 
