@@ -1,16 +1,16 @@
-# Olá, eu sou Dalvana Ribeiro 👩‍💻💚
+# Hello, I'm Dalvana Ribeiro 👩‍💻💚
 
-Sou **Desenvolvedora**, **Educadora de Tecnologia**, **Bacharel em Ciência e Tecnologia**, **Mestre em Engenharia Oceânica**, e **Doutoranda em Modelagem Computacional**. 🚀
+I am a **Developer**, **Technology Educator**, **Bachelor in Science and Technology**, **Master in Ocean Engineering**, and **PhD Candidate in Computational Modeling**. 🚀
 
-Tenho grande interesse em **programação**, **educação**, **inovação tecnológica** e **modelagem computacional**! 😄
+I have a strong interest in **programming**, **education**, **technological innovation**, and **computational modeling**! 😄
 
-Se você também curte **tecnologia**, **desenvolvimento web e mobile**, **engenharia** ou **modelagem computacional**, estou aqui para compartilhar e colaborar! 🤖
+If you share a passion for **technology**, **web and mobile development**, **engineering**, or **computational modeling**, I'm here to share and collaborate! 🤖
 
 ---
 
-## 🛠️ Tecnologias que Uso Frequentemente
+## 🛠️ Technologies I Frequently Use
 
-### 🖥️ **Linguagens de Programação**
+### 🖥️ **Programming Languages**
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -27,12 +27,12 @@ Se você também curte **tecnologia**, **desenvolvimento web e mobile**, **engen
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🗄️ **Bancos de Dados**
+### 🗄️ **Databases**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 **Outras Ferramentas**
+### 🔧 **Other Tools**
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,20 +46,20 @@ Se você também curte **tecnologia**, **desenvolvimento web e mobile**, **engen
 
 ---
 
-## 🎓 Minha Formação Acadêmica
+## 🎓 My Academic Background
 
-- **Bacharel em Ciência e Tecnologia** pela Universidade Federal do Pampa (UNIPAMPA) 🎓  
-- **Redes de Computadores** – Centro Universitário de Tecnologia de Curitiba (UNIFATEC) 🌐  
-- **Mestre em Engenharia Oceânica** – Universidade Federal do Rio Grande (FURG) 🌊  
-- **Doutoranda em Modelagem Computacional** – Universidade Federal do Rio Grande (FURG) 🧑‍🔬  
+- **Bachelor in Science and Technology** from the Federal University of Pampa (UNIPAMPA) 🎓  
+- **Computer Networks** – Technology University Center of Curitiba (UNIFATEC) 🌐  
+- **Master in Ocean Engineering** – Federal University of Rio Grande (FURG) 🌊  
+- **PhD Candidate in Computational Modeling** – Federal University of Rio Grande (FURG) 🧑‍🔬  
 
 ---
 
-## 📲 Meus Links
+## 📲 My Links
 
 <div align="center">
   <a href="http://lattes.cnpq.br/5489866644484228" target="_blank">
-    <img src="https://img.shields.io/badge/📜%20Lattes-Visualizar%20Currículo-4CAF50?style=for-the-badge" alt="Currículo Lattes">
+    <img src="https://img.shields.io/badge/📜%20Lattes-View%20Curriculum-4CAF50?style=for-the-badge" alt="Curriculum Lattes">
   </a>
 
   <a href="https://www.linkedin.com/in/ribeiro-dalvana/" target="_blank">
@@ -73,20 +73,17 @@ Se você também curte **tecnologia**, **desenvolvimento web e mobile**, **engen
 
 ---
 
-## 📊 Linguagens Mais Usadas no GitHub
+## 📊 Most Used Languages on GitHub
 
 <div align="center">
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DalvanaRibeiro&layout=compact&theme=gruvbox)
-
 </div>
 
 ---
 
-## 💬 Vamos Conversar!
+## 💬 Let's Connect!
 
-Se você tem alguma dúvida sobre tecnologia, desenvolvimento ou quer colaborar em projetos, **me envie uma mensagem!** 😊  
+If you have any questions about technology, development, or want to collaborate on projects, **feel free to reach out!** 😊  
 📧 **Email**: lopesribeirodalvana20@gmail.com
 
 <picture align="center">
