@@ -73,12 +73,6 @@ If you share a passion for **technology**, **web and mobile development**, **eng
 
 ---
 
-## 📊 Most Used Languages on GitHub
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DalvanaRibeiro&layout=compact&theme=gruvbox)
-
 ---
 
 ## 💬 Let's Connect!
