@@ -51,7 +51,7 @@ If you share a passion for **technology**, **web and mobile development**, **eng
 - **Bachelor in Science and Technology** from the Federal University of Pampa (UNIPAMPA) 🎓  
 - **Computer Networks** – Technology University Center of Curitiba (UNIFATEC) 🌐  
 - **Master in Ocean Engineering** – Federal University of Rio Grande (FURG) 🌊  
-- **PhD Candidate in Computational Modeling** – Federal University of Rio Grande (FURG) 🧑‍🔬  
+- **PhD Computational Modeling** – Federal University of Rio Grande (FURG) 🧑‍🔬  
 
 ---
 
