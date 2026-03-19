@@ -12,9 +12,9 @@ If you share a passion for **technology**, **web and mobile development**, **eng
 
 ## 🏅 Certifications
 
-<p align="center">
+<p>
   <a href="https://www.credly.com/badges/74ca1367-0d6b-4a5d-9c5a-21148b6ef5b0/public_url">
-    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150"/>
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100"/>
   </a>
 </p>
 
