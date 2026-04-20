@@ -15,15 +15,19 @@ If you share a passion for **technology**, **web and mobile development**, **eng
   <a href="https://www.credly.com/badges/74ca1367-0d6b-4a5d-9c5a-21148b6ef5b0/public_url">
     <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" style="margin-right: 10px;"/>
   </a>
+
   <a href="https://www.credly.com/badges/6dc94cfc-3615-4018-b733-5a7b0e2eb8b2/public_url">
-    <img src="https://images.credly.com/size/340x340/images/26c21273-c0ab-485b-98a7-f1212dcb82b8/image.png" width="100"/>
+    <img src="https://images.credly.com/size/340x340/images/26c21273-c0ab-485b-98a7-f1212dcb82b8/image.png" width="100" style="margin-right: 10px;"/>
   </a>
-    <a href="https://www.credly.com/badges/c9454d9f-f58e-48d9-a7b2-5055aeb2ab47/public_url">
-    <img src="https://images.credly.com/images/d1780852-c077-4ba5-99ef-0ec4604a0786/DataLiteracy_BadgeEmblem.png" width="100"/>
+
+  <a href="https://www.credly.com/badges/c9454d9f-f58e-48d9-a7b2-5055aeb2ab47/public_url">
+    <img src="https://images.credly.com/images/d1780852-c077-4ba5-99ef-0ec4604a0786/DataLiteracy_BadgeEmblem.png" width="100" style="margin-right: 10px;"/>
+  </a>
+
+  <a href="https://www.credential.net/55ec0c98-5b31-422b-9917-c84c13ec16d7">
+    <img src="https://pdf.ms.credential.net/badge/image?env=production&credential=ecajxgzi" width="100" style="margin-right: 10px;"/>
   </a>
 </p>
-
-
 
 ## 🛠️ Technologies I Frequently Use
 
