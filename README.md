@@ -21,7 +21,7 @@ If you share a passion for **technology**, **web and mobile development**, **eng
   </a>
 
   <a href="https://www.credly.com/badges/c9454d9f-f58e-48d9-a7b2-5055aeb2ab47/public_url">
-    <img src="https://images.credly.com/images/d1780852-c077-4ba5-99ef-0ec4604a0786/DataLiteracy_BadgeEmblem.png" width="100" style="margin-right: 10px;"/>
+    <img src="https://images.credly.com/size/340x340/images/07321564-3531-42b8-bdec-16aa29c506be/Badge_DataLiteracy.png" width="100" style="margin-right: 10px;"/>
   </a>
 
   <a href="https://www.credential.net/55ec0c98-5b31-422b-9917-c84c13ec16d7">
